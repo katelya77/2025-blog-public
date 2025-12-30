@@ -13,7 +13,7 @@
 	{
 		"name": "DecoTV",
 		"year": 2025,
-		"image": "blob:https://www.katelya.eu.org/fd281d73-84b6-4aa6-9cde-f1dfcb592214",
+		"image": "/images/project/1251f6dd53da20c1.webp",
 		"url": "https://decotv.katelya.eu.org/",
 		"description": " DecoTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 16 + Tailwind CSS 4 + TypeScript 5 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。支持本地无数据库模式、CMS 全量代理、隐私纵深防御等企业级特性。",
 		"tags": [
