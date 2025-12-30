@@ -51,7 +51,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "katelya77@gmail.com",
 			"label": "",
 			"order": 1
 		},
@@ -61,10 +61,17 @@
 			"value": "https://t.me/katelya77",
 			"label": "",
 			"order": 3
+		},
+		{
+			"id": "button-1767103405146",
+			"type": "x",
+			"value": "https://x.com/katelya77",
+			"label": "",
+			"order": 4
 		}
 	],
-	"clockShowSeconds": false,
-	"summaryInContent": false,
+	"clockShowSeconds": true,
+	"summaryInContent": true,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
