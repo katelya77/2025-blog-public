@@ -41,5 +41,15 @@
 			"Music"
 		],
 		"github": "https://github.com/katelya77/musicplayer"
+	},
+	{
+		"name": "Katelya-Image Toolbox",
+		"year": 2026,
+		"image": "blob:https://www.katelya.eu.org/639c2e63-584a-4b16-841c-e19d57847b49",
+		"url": "https://www.katelya.eu.org/image-toolbox",
+		"description": "一款在线的PNG / JPG 转 WEBP 的压缩转换工具。",
+		"tags": [
+			"图像压缩"
+		]
 	}
 ]
