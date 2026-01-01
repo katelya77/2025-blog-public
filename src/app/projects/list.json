@@ -30,5 +30,16 @@
 		"tags": [
 			"AI-image"
 		]
+	},
+	{
+		"name": "Katelya-Music",
+		"year": 2026,
+		"image": "blob:https://www.katelya.eu.org/0b26738e-3358-4335-a671-3d6b73ee06cf",
+		"url": "https://music.katelya.eu.org/",
+		"description": "一款网络在线播放器，对接了音乐雷达API，可在线听歌。",
+		"tags": [
+			"Music"
+		],
+		"github": "https://github.com/katelya77/musicplayer"
 	}
 ]
