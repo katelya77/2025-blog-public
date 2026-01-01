@@ -20,5 +20,15 @@
 			"Github"
 		],
 		"github": "https://github.com/Decohererk/DecoTV"
+	},
+	{
+		"name": "Katelya-AI-Image",
+		"year": 2026,
+		"image": "blob:https://www.katelya.eu.org/814cd758-8ae0-4f47-91e2-c6de64f3634a",
+		"url": "https://ai.katelya.eu.org/",
+		"description": "一款在线文生图服务的网站",
+		"tags": [
+			"AI-image"
+		]
 	}
 ]
