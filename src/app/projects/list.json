@@ -24,7 +24,7 @@
 	{
 		"name": "Katelya-AI-Image",
 		"year": 2026,
-		"image": "blob:https://www.katelya.eu.org/814cd758-8ae0-4f47-91e2-c6de64f3634a",
+		"image": "/images/project/a736c7e8b5725fe1.png",
 		"url": "https://ai.katelya.eu.org/",
 		"description": "一款在线文生图服务的网站。",
 		"tags": [
@@ -34,7 +34,7 @@
 	{
 		"name": "Katelya-Music",
 		"year": 2026,
-		"image": "blob:https://www.katelya.eu.org/0b26738e-3358-4335-a671-3d6b73ee06cf",
+		"image": "/images/project/a736c7e8b5725fe1.png",
 		"url": "https://music.katelya.eu.org/",
 		"description": "一款网络在线播放器，对接了音乐雷达API，可在线听歌。",
 		"tags": [
@@ -45,7 +45,7 @@
 	{
 		"name": "Katelya-Image Toolbox",
 		"year": 2026,
-		"image": "blob:https://www.katelya.eu.org/639c2e63-584a-4b16-841c-e19d57847b49",
+		"image": "/images/project/2c9ce3e9666b643f.png",
 		"url": "https://www.katelya.eu.org/image-toolbox",
 		"description": "一款在线的PNG / JPG 转 WEBP 的压缩转换工具。",
 		"tags": [
